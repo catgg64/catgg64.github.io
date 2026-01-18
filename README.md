@@ -1,3 +1,6 @@
+<html1> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> </html1>
+
+
 # Catgg54's Portifolio
 
 Hello everyone! Welcome to my portifolio!
