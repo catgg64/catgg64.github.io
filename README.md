@@ -1,4 +1,4 @@
-<html1> <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"> </html1>
+<html1> <link rel="shortcut icon" type="image/x-icon" href="floutwtitch-icon.ico"> </html1>
 
 
 # Catgg54's Portifolio
