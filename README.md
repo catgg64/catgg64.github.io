@@ -21,6 +21,9 @@ Youtube: https://www.youtube.com/@catgg54
 
 My dead, old, outdated Discord server: https://discord.gg/Vja6qwMyYy
 
+## CatEngine
+A very, VERY simple engine I built with SDL and OpenGl. Used for Farmbotany and future projects.
+
 # My Story
 I started game development and programming when I was 10, after watching the tutorial "[BR] Crie Ser Próprio Jogo Guselect - Gamemaker". Since then, I've made a bunch of gamejam games, and created a major project, Farmbotany. This branched off into me learning a bunch of things, like Python, Pygame, a little bit of Rust, Git and much else.
 
