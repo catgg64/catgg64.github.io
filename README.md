@@ -5,7 +5,7 @@
 
 Hello everyone! Welcome to my portifolio!
 I'm a Game developer who makes games in the mean time.
-You could aslo acess [My Blog](./blog/).
+You could also access [My Blog](./blog/).
 And here are my main projects:
 
 # Main Projects
