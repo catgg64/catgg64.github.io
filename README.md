@@ -5,7 +5,8 @@
 
 Hello everyone! Welcome to my portifolio!
 I'm a Game developer who makes games in the mean time.
-Here are my main projects:
+- [My Blog](./blog/)
+And here are my main projects:
 
 # Main Projects
 ## Farmbotany
